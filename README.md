@@ -183,6 +183,20 @@ Then run the setup script again.
 
 Use this only when the container state is clearly broken.
 
+## Tested Output
+
+### Ubuntu Terminal Running
+
+<p align="center">
+  <img src="Tested%20Output/Pasted%20image.png" alt="Ubuntu terminal running inside Distrobox on Arch Linux" width="900">
+</p>
+
+### Ubuntu Terminal Verified
+
+<p align="center">
+  <img src="Tested%20Output/Pasted%20image%20%282%29.png" alt="Ubuntu container verification output in terminal" width="900">
+</p>
+
 ## Result
 
 You end up with:
@@ -196,4 +210,3 @@ You end up with:
 ---
 
 <p align="center">Made with Ashwin S ❤️</p>
-# Ubuntu-Container-Terminal-for-Arch-Linux-via-distrobox
